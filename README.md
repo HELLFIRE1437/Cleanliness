@@ -1,2 +1,2 @@
-# MatterJSBoilerPlate
+# Cleanliness
 MatterJSBoilerPlate
